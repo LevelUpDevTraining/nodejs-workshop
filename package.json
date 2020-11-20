@@ -4,7 +4,8 @@
   "description": "NodeJs Workshop",
   "main": "index.js",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
   },
   "devDependencies": {},
   "scripts": {
